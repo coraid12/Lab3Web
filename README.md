@@ -74,7 +74,7 @@
   
   ![4](https://user-images.githubusercontent.com/56239989/114266283-abaf7b00-9a1f-11eb-869a-cabe171ef40c.jpg)
 
-  **3. Menggabungkan Sel Data **
+  **3. Menggabungkan Sel Data**
   
   - Syntax yang dirubah adalah rowspan="3" :
   
