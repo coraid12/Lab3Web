@@ -21,7 +21,7 @@
 ## Laporan Praktikum
   **Langkah Langkah Praktikum**
   
- **1. Buat file baru bernama Lab3_list.html**
+ **1. Membuat list dengan file baru bernama Lab3_list.html**
  
  **2. Membuat Ordered List**
   
@@ -54,6 +54,15 @@
   ![6](https://user-images.githubusercontent.com/56239989/114265608-f4fdcb80-9a1b-11eb-9ba2-0dacf997c375.jpg)
 
    
-  5. 
+ **5. Membuat Table dengan file baru bernama lab3_tabel**
+ 
+  - Syntax yang dimasukan :
+    
+    ![1](https://user-images.githubusercontent.com/56239989/114265886-7bff7380-9a1d-11eb-913e-3b252b011e5d.jpg)
+
+  - Hasil Perubahanya :
+  
+  ![2](https://user-images.githubusercontent.com/56239989/114265892-8588db80-9a1d-11eb-9e3a-b2e8374977e9.jpg)
+
   6. 
   7. 
