@@ -21,9 +21,9 @@
 ## Laporan Praktikum
   **Langkah Langkah Praktikum**
   
- **1. Membuat list dengan file baru bernama Lab3_list.html**
+ # Membuat list dengan file baru bernama Lab3_list.html**
  
- **2. Membuat Ordered List**
+ **1. Membuat Ordered List**
   
   - Syntax yang dimasukan :
   
@@ -33,7 +33,7 @@
   
   ![2](https://user-images.githubusercontent.com/56239989/114265557-9f292380-9a1b-11eb-8e14-0a155ee56160.jpg)
 
-  **3. Membuat Unordered List**
+  **2. Membuat Unordered List**
   
   - Syntax yang dimasukan :
   
@@ -43,7 +43,7 @@
   
   ![4](https://user-images.githubusercontent.com/56239989/114265577-b9630180-9a1b-11eb-9419-7d19224b71c0.jpg)
   
-  **4. Membuat Description List**
+  **3. Membuat Description List**
   
   - Syntax yang diamsukan :
   
@@ -54,28 +54,27 @@
   ![6](https://user-images.githubusercontent.com/56239989/114265608-f4fdcb80-9a1b-11eb-9ba2-0dacf997c375.jpg)
 
    
- **5. Membuat Table dengan file baru bernama lab3_tabel.html**
+ # Membuat Table dengan file baru bernama lab3_tabel.html
  
   - Syntax yang dimasukan :
     
-   ![1](https://user-images.githubusercontent.com/56239989/114266234-69863980-9a1f-11eb-99df-db1d962495ba.jpg)![3](https://user-images.githubusercontent.com/56239989/114266271-96d2e780-9a1f-11eb-9f92-c8c621ea7bd5.jpg)
-
+   ![1](https://user-images.githubusercontent.com/56239989/114266234-69863980-9a1f-11eb-99df-db1d962495ba.jpg)
 
   - Hasil Perubahanya :
   
   ![2](https://user-images.githubusercontent.com/56239989/114266237-6b4ffd00-9a1f-11eb-8996-1e54105f69eb.jpg)
 
-  **6. Kita bisa mengatur margin dan padding dengan mengubah data berikut :**
+  **1. Kita bisa mengatur margin dan padding dengan mengubah data berikut :**
   
-  ![Uploading 3.jpg…]()
+  ![3](https://user-images.githubusercontent.com/56239989/114266375-33958500-9a20-11eb-827c-057a6c5a71a3.jpg)
   
   - Contoh Perubahan yang terjadi :
   
   ![4](https://user-images.githubusercontent.com/56239989/114266283-abaf7b00-9a1f-11eb-869a-cabe171ef40c.jpg)
 
-  **7. Menggabungkan Sel Data **
+  **2. Menggabungkan Sel Data **
   
-  - Syntax yang dirubah :
+  - Syntax yang dirubah adalah rowspan="3" :
   
   ![5](https://user-images.githubusercontent.com/56239989/114266319-f16c4380-9a1f-11eb-8cda-89a043f98c24.jpg)
   
@@ -83,3 +82,4 @@
   
   ![6](https://user-images.githubusercontent.com/56239989/114266335-00eb8c80-9a20-11eb-972f-ba30c1fcc9dc.jpg)
 
+  # Membuat form dengan file baru bernama lab3_form.html
