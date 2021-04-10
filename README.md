@@ -1,6 +1,6 @@
 # Lab3Web
 ## Pertanyaan dan Tugas
-1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+**1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.**
 
   Syntax Dropdown menu :
   
@@ -14,8 +14,10 @@
   
   ![33](https://user-images.githubusercontent.com/56239989/114265262-06de6f00-9a1a-11eb-93e3-26ba442e9bc7.png)
 
-  hasil Listbox multiple selection :
+  Hasil Listbox multiple selection :
   
-  ![44](https://user-images.githubusercontent.com/56239989/114265263-07770580-9a1a-11eb-85a5-1eee4f5396a3.jpg)
+  ![44](https://user-images.githubusercontent.com/56239989/114265371-a13eb280-9a1a-11eb-91d6-3ee0cb70c621.jpg)
+  
+## Laporan Praktikum
   
   
