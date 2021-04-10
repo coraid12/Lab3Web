@@ -54,15 +54,32 @@
   ![6](https://user-images.githubusercontent.com/56239989/114265608-f4fdcb80-9a1b-11eb-9ba2-0dacf997c375.jpg)
 
    
- **5. Membuat Table dengan file baru bernama lab3_tabel**
+ **5. Membuat Table dengan file baru bernama lab3_tabel.html**
  
   - Syntax yang dimasukan :
     
-    ![1](https://user-images.githubusercontent.com/56239989/114265886-7bff7380-9a1d-11eb-913e-3b252b011e5d.jpg)
+   ![1](https://user-images.githubusercontent.com/56239989/114266234-69863980-9a1f-11eb-99df-db1d962495ba.jpg)![3](https://user-images.githubusercontent.com/56239989/114266271-96d2e780-9a1f-11eb-9f92-c8c621ea7bd5.jpg)
+
 
   - Hasil Perubahanya :
   
-  ![2](https://user-images.githubusercontent.com/56239989/114265892-8588db80-9a1d-11eb-9e3a-b2e8374977e9.jpg)
+  ![2](https://user-images.githubusercontent.com/56239989/114266237-6b4ffd00-9a1f-11eb-8996-1e54105f69eb.jpg)
 
-  6. 
-  7. 
+  **6. Kita bisa mengatur margin dan padding dengan mengubah data berikut :**
+  
+  ![Uploading 3.jpg…]()
+  
+  - Contoh Perubahan yang terjadi :
+  
+  ![4](https://user-images.githubusercontent.com/56239989/114266283-abaf7b00-9a1f-11eb-869a-cabe171ef40c.jpg)
+
+  **7. Menggabungkan Sel Data **
+  
+  - Syntax yang dirubah :
+  
+  ![5](https://user-images.githubusercontent.com/56239989/114266319-f16c4380-9a1f-11eb-8cda-89a043f98c24.jpg)
+  
+  - Perubahan pada kolom Teknik menjadi 1 Kotak :
+  
+  ![6](https://user-images.githubusercontent.com/56239989/114266335-00eb8c80-9a20-11eb-972f-ba30c1fcc9dc.jpg)
+
