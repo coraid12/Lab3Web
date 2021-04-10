@@ -23,11 +23,11 @@
   
  **1. Buat file baru bernama Lab3_list.html**
  
- **2. Membuat Ordered List=
+ **2. Membuat Ordered List**
   
   - Syntax yang dimasukan :
   
-  ![1](https://user-images.githubusercontent.com/56239989/114265523-72750c00-9a1b-11eb-94cb-3aaea24326e8.jpg)
+  ![1](https://user-images.githubusercontent.com/56239989/114265754-ca604280-9a1c-11eb-9e48-462e2455e458.jpg)
 
   - Hasil Perubahanya :
   
