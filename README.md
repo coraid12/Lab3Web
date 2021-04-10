@@ -1,5 +1,5 @@
 # Lab3Web
-## Pertanyaan dan Tugas
+# Pertanyaan dan Tugas
 **1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.**
 
   - Syntax Dropdown menu :
@@ -18,10 +18,10 @@
   
   ![44](https://user-images.githubusercontent.com/56239989/114265371-a13eb280-9a1a-11eb-91d6-3ee0cb70c621.jpg)
   
-## Laporan Praktikum
+# Laporan Praktikum
   **Langkah Langkah Praktikum**
   
- # Membuat list dengan file baru bernama Lab3_list.html**
+ ## Membuat list dengan file baru bernama Lab3_list.html
  
  **1. Membuat Ordered List**
   
@@ -54,7 +54,9 @@
   ![6](https://user-images.githubusercontent.com/56239989/114265608-f4fdcb80-9a1b-11eb-9ba2-0dacf997c375.jpg)
 
    
- # Membuat Table dengan file baru bernama lab3_tabel.html
+ ## Membuat Table dengan file baru bernama lab3_tabel.html
+ 
+ **1. Membuat tabel**
  
   - Syntax yang dimasukan :
     
@@ -64,7 +66,7 @@
   
   ![2](https://user-images.githubusercontent.com/56239989/114266237-6b4ffd00-9a1f-11eb-8996-1e54105f69eb.jpg)
 
-  **1. Kita bisa mengatur margin dan padding dengan mengubah data berikut :**
+  **2. Kita bisa mengatur margin dan padding dengan mengubah data berikut :**
   
   ![3](https://user-images.githubusercontent.com/56239989/114266375-33958500-9a20-11eb-827c-057a6c5a71a3.jpg)
   
@@ -72,7 +74,7 @@
   
   ![4](https://user-images.githubusercontent.com/56239989/114266283-abaf7b00-9a1f-11eb-869a-cabe171ef40c.jpg)
 
-  **2. Menggabungkan Sel Data **
+  **3. Menggabungkan Sel Data **
   
   - Syntax yang dirubah adalah rowspan="3" :
   
@@ -83,3 +85,24 @@
   ![6](https://user-images.githubusercontent.com/56239989/114266335-00eb8c80-9a20-11eb-972f-ba30c1fcc9dc.jpg)
 
   # Membuat form dengan file baru bernama lab3_form.html
+  
+  **1. Membuat Form**
+  
+  - Syntax yang dimasukan :
+  
+  ![1](https://user-images.githubusercontent.com/56239989/114266549-10b7a080-9a21-11eb-961b-68953323a222.jpg)
+
+  - Hasil Perubahanya :
+  
+  ![2](https://user-images.githubusercontent.com/56239989/114266579-32b12300-9a21-11eb-8d8d-226d0dd554d7.jpg)
+
+  **2. Menambahakan Style pada Form**
+  
+  - Syntax style yang dimasukan :
+  
+  ![3](https://user-images.githubusercontent.com/56239989/114266600-5a07f000-9a21-11eb-8a9c-bc42a636cf86.jpg)
+
+  - Hasil Perubahanya :
+  
+  ![4](https://user-images.githubusercontent.com/56239989/114266611-62f8c180-9a21-11eb-8772-14b700edb8f4.jpg)
+
