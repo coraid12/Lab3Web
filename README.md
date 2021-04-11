@@ -12,7 +12,7 @@
   
   - Syntax CSS External untuk merubah tampilan :
   
-  !loading
+  ![1](https://user-images.githubusercontent.com/56239989/114311861-adaa3480-9b1a-11eb-8623-ab5f55123401.jpg)
 
   - Hasil Dropdown menu :
   
