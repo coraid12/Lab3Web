@@ -9,6 +9,10 @@
   - Syntax Listbox Multiple Selection :
   
   ![22](https://user-images.githubusercontent.com/56239989/114265261-0645d880-9a1a-11eb-9e26-3cd259af166a.jpg)
+  
+  - Syntax CSS External untuk merubah tampilan :
+  
+  !loading
 
   - Hasil Dropdown menu :
   
