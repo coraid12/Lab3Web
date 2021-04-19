@@ -1,0 +1,91 @@
+nav{
+    background: #ff00dd;
+    color: #FFF;
+    padding: 10px;
+}
+nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 20px;
+}
+nav .active,
+nav a:hover {
+    background: #3e7e5d;
+}
+/* ID Selector */
+#intro {
+    background: #a597a3;
+    border: 10px solid #707070;
+    min-height: 100px;
+    padding: 100px;
+    }
+    #intro h1 {
+    text-align: left;
+    border: 0;
+    color: rgb(0, 0, 0);
+    }
+    #intro p {
+        text-align: left;
+        border: 0;
+        color: rgb(0, 0, 0);
+        }
+        #intro label {
+            text-align: left;
+            border: 0;
+            color: rgb(0, 0, 0);
+            }
+
+    /* Class Selector */
+    .button {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 20px;
+    text-decoration: none;
+    }
+    .btn-primary {
+    background: #E42A42;
+    }
+
+    #gabung {
+        background: #000000;
+        border: 5px solid #707070;
+        min-height: 100px;
+        padding: 10px;
+        }
+        #intro h1 {
+        text-align: left;
+        border: 0;
+        color: #fff;
+        }
+        /* Class Selector */
+        .button {
+        padding: 15px 20px;
+        background: #bebcbd;
+        color: #fff;
+        display: inline-block;
+        margin: 20px;
+        text-decoration: none;
+        }
+        .btn-primary {
+        background: #E42A42;
+        }
+
+    #paragraf-1{
+        background: #b90000;
+        border: 5px solid #707070;
+        min-height: 100px;
+        padding: 10px;
+        }
+        .text-paragraf {
+            padding: 15px 20px;
+            background: #bebcbd;
+            color: #fff;
+            display: inline-block;
+            margin: 20px;
+            text-decoration: none;
+        }
+
+
+    }
